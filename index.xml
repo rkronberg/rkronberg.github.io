@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rasmus Kronberg</title>
+    <link>https://rkronberg.github.io/</link>
+    <description>Recent content on Rasmus Kronberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Tue, 28 Jul 2020 11:52:59 +0300</lastBuildDate>
+    
+	<atom:link href="https://rkronberg.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome!</title>
+      <link>https://rkronberg.github.io/posts/welcome/</link>
+      <pubDate>Tue, 28 Jul 2020 11:52:59 +0300</pubDate>
+      
+      <guid>https://rkronberg.github.io/posts/welcome/</guid>
+      <description>Hello and welcome to my personal website/portfolio/blog! I&amp;rsquo;m Rasmus, a Finnish computational chemist pursing a doctoral degree at Aalto University. This website will serve as a platform showcasing my background and interests, past and ongoing research projects and perhaps some more extensive blog posts in case I have something on my mind I think would be worth sharing. Stay tuned!
+This site is made with Hugo, an (extremely!) fast and flexible open-source static site generator, and hosted through GitHub pages.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://rkronberg.github.io/projects/</link>
+      <pubDate>Tue, 28 Jul 2020 10:48:40 +0300</pubDate>
+      
+      <guid>https://rkronberg.github.io/projects/</guid>
+      <description>Nothing here yet.</description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://rkronberg.github.io/posts/</link>
+      <pubDate>Tue, 28 Jul 2020 10:35:32 +0300</pubDate>
+      
+      <guid>https://rkronberg.github.io/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://rkronberg.github.io/publications/</link>
+      <pubDate>Sun, 26 Jul 2020 21:11:51 +0300</pubDate>
+      
+      <guid>https://rkronberg.github.io/publications/</guid>
+      <description>Kronberg, Rasmus; Laasonen, Kari. Coupling surface coverage and electrostatic effects on the interfacial adlayer—water structure of hydrogenated single-crystal platinum electrodes. The Journal of Physical Chemistry C 2020, 124, 13706—13714. Link to publisher&amp;rsquo;s version.
+  Rajala, Taneli; Kronberg, Rasmus; Backhouse, Rachel; Buan, Marthe E. M.; Tripathi, Mukesh; Zitolo, Andrea; Jiang, Hua; Laasonen, Kari; Susi, Toma; Jaouen, Frederic; Kallio, Tanja. A platinum nanowire electrocatalyst on single-walled carbon nanotubes to drive hydrogen evolution.</description>
+    </item>
+    
+    <item>
+      <title>About Rasmus</title>
+      <link>https://rkronberg.github.io/about/</link>
+      <pubDate>Sun, 26 Jul 2020 18:45:19 +0300</pubDate>
+      
+      <guid>https://rkronberg.github.io/about/</guid>
+      <description>Doctoral Candidate, Computational Chemistry
+Aalto University
+ Helsinki, Finland
+ Rasmus is a materials modelling and data science enthusiast pursuing a doctoral degree in computational chemistry at Aalto University. Since 2018, he has been exploring the structure and chemical reactivity of dynamic solid-liquid interfaces by means of numerical computer simulations. At interfaces the symmetries of the respective bulk materials are broken, thus forming a potential site for exciting phenomena such as the catalysis of chemical reactions.</description>
+    </item>
+    
+  </channel>
+</rss>

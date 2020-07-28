@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>website on Rasmus Kronberg</title>
+    <link>https://rkronberg.github.io/tags/website/</link>
+    <description>Recent content in website on Rasmus Kronberg</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Tue, 28 Jul 2020 11:52:59 +0300</lastBuildDate>
+    
+	<atom:link href="https://rkronberg.github.io/tags/website/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome!</title>
+      <link>https://rkronberg.github.io/posts/welcome/</link>
+      <pubDate>Tue, 28 Jul 2020 11:52:59 +0300</pubDate>
+      
+      <guid>https://rkronberg.github.io/posts/welcome/</guid>
+      <description>Hello and welcome to my personal website/portfolio/blog! I&amp;rsquo;m Rasmus, a Finnish computational chemist pursing a doctoral degree at Aalto University. This website will serve as a platform showcasing my background and interests, past and ongoing research projects and perhaps some more extensive blog posts in case I have something on my mind I think would be worth sharing. Stay tuned!
+This site is made with Hugo, an (extremely!) fast and flexible open-source static site generator, and hosted through GitHub pages.</description>
+    </item>
+    
+  </channel>
+</rss>
