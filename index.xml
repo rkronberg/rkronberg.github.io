@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 28 Jul 2020 11:52:59 +0300</lastBuildDate>
-    
-	<atom:link href="https://rkronberg.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 28 Jul 2020 11:52:59 +0300</lastBuildDate><atom:link href="https://rkronberg.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tags</title>
       <link>https://rkronberg.github.io/tags/</link>
