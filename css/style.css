@@ -164,3 +164,7 @@ a {
 .copy_right {
     font-size: small;
 }
+
+.interests ul {
+    margin-top: 0.8rem;
+}
