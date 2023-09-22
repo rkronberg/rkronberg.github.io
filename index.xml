@@ -2,9 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rasmus</title>
-    <link>https://rkronberg.github.io/</link>
+    <link>https://example.com/</link>
     <description>Recent content on Rasmus</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://rkronberg.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <copyright>&amp;copy; Copyright 2023, Rasmus Kronberg</copyright><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://example.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>👋 Hello I&amp;rsquo;m a computational chemist and application specialist working at CSC – IT Center for Science, the high-performance computing center of Finland. Previously, as part of my doctoral thesis project at Aalto University, I explored solid–liquid interfaces and electrocatalysis using computational methods, mostly density functional theory and molecular dynamics. This research is important to understanding how to accurately model electrochemical energy conversion processes such as the production of green hydrogen.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/contact/</guid>
+      <description>✉️ Contact You can reach me by email at rasmus.kronberg@pm.me. Feel free to also connect with me on LinkedIn or GitHub.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/education/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/education/</guid>
+      <description>🎓 Education D.Sc. (Tech.) in Computational Chemistry, 2018–2022
+Aalto University, FI M.Sc. (Tech.) in Chemistry, 2016–2018
+Aalto University, FI
+Minor: Engineering Physics B.Sc. (Tech.) in Chemical Engineering, 2013–2016
+Aalto University, FI
+Minor: Engineering Physics </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/publications/</guid>
+      <description>📝 Selected publications See my Google Scholar profile for the full list.
+Dynamics of Electrified Interfaces and Hydrogen Evolution from Density Functional Theory
+Doctoral thesis, Aalto University publication series, 162/2022.
+Rasmus Kronberg
+pdf Dynamics and Surface Propensity of H⁺ and OH⁻ within Rigid Interfacial Water: Implications for Electrocatalysis
+The Journal of Physical Chemistry Letters 2021, 12, 41, 10128-10134.
+Rasmus Kronberg and Kari Laasonen
+pdf Hydrogen Adsorption on Defective Nitrogen-Doped Carbon Nanotubes Explained via Machine Learning Augmented DFT Calculations and Game-Theoretic Feature Attributions</description>
+    </item>
+    
   </channel>
 </rss>

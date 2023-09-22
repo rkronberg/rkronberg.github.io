@@ -2,12 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rkronberg.github.io/about/</loc>
+    <loc>https://example.com/about/</loc>
   </url><url>
-    <loc>https://rkronberg.github.io/categories/</loc>
+    <loc>https://example.com/</loc>
   </url><url>
-    <loc>https://rkronberg.github.io/</loc>
+    <loc>https://example.com/contact/</loc>
   </url><url>
-    <loc>https://rkronberg.github.io/tags/</loc>
+    <loc>https://example.com/education/</loc>
+  </url><url>
+    <loc>https://example.com/publications/</loc>
   </url>
 </urlset>
