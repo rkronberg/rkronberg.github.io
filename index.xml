@@ -4,17 +4,10 @@
     <title>Rasmus</title>
     <link>https://rkronberg.github.io/</link>
     <description>Recent content on Rasmus</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2024, Rasmus Kronberg</copyright>
     <atom:link href="https://rkronberg.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>https://rkronberg.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://rkronberg.github.io/about/</guid>
-      <description>👋 Hello I&amp;rsquo;m a computational chemist and application specialist working at CSC – IT Center for Science, the high-performance computing center of Finland. Previously, as part of my doctoral thesis project at Aalto University, I explored solid–liquid interfaces and electrocatalysis using computational methods, mostly density functional theory and molecular dynamics. This research helps us understand how to accurately model electrochemical energy conversion processes such as the production of green hydrogen.</description>
-    </item>
     <item>
       <title></title>
       <link>https://rkronberg.github.io/contact/</link>
